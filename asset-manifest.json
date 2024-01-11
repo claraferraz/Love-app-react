@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Love-app-react/static/css/main.8a9f707f.css",
+    "main.js": "/Love-app-react/static/js/main.1fa93109.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Love-app-react/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Love-app-react/index.html",
+    "static/media/heart.svg": "/Love-app-react/static/media/heart.cd84e540d62aa268a413cd3b2c574f3d.svg",
+    "main.8a9f707f.css.map": "/Love-app-react/static/css/main.8a9f707f.css.map",
+    "main.1fa93109.js.map": "/Love-app-react/static/js/main.1fa93109.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Love-app-react/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a9f707f.css",
+    "static/js/main.1fa93109.js"
+  ]
+}
